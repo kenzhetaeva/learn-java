@@ -1,4 +1,4 @@
-package com.aidana.collection.hashmap;
+package hashmap;
 
 import java.util.*;
 

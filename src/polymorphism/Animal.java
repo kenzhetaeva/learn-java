@@ -1,4 +1,4 @@
-package com.aidana.collection.polymorphism;
+package polymorphism;
 
 public class Animal implements AnimalWorld {
 

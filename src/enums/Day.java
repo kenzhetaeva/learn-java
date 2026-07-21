@@ -1,4 +1,4 @@
-package com.aidana.collection.enums;
+package enums;
 
 public enum Day {
     MONDAY(8),

@@ -1,4 +1,4 @@
-package com.aidana.collection.collection;
+package collection;
 
 import java.util.*;
 

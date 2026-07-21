@@ -1,4 +1,4 @@
-package com.aidana.collection.comparable;
+package comparable;
 
 import java.util.Comparator;
 
