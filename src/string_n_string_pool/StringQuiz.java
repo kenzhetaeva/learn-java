@@ -14,6 +14,9 @@ public class StringQuiz {
 
         String s5 = "Ja";
         String s6 = s5 + "va";
+        String s7 = "Ja" + "va";
         System.out.println(s1 == s6);
+        System.out.println(s1 == s7);
+        System.out.println(s6 == s7);
     }
 }
