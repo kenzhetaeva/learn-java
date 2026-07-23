@@ -1,4 +1,4 @@
-package com.aidana.collection.enums;
+package enums;
 
 public class Pair<T, V> {
     private T key;

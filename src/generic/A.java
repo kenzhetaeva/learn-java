@@ -1,4 +1,4 @@
-package com.aidana.collection.generic;
+package generic;
 
 public class A {
 }
