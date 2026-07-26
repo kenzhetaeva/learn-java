@@ -1,6 +1,6 @@
-package solid.s.after;
+package solid.single_responsibility.after;
 
-import solid.s.User;
+import solid.single_responsibility.User;
 
 public class UserRepository {
     public void save(User user) {

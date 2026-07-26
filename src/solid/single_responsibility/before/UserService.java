@@ -1,6 +1,6 @@
-package solid.s.before;
+package solid.single_responsibility.before;
 
-import solid.s.User;
+import solid.single_responsibility.User;
 
 public class UserService { // God Object
     public void registerUser(User user) {
