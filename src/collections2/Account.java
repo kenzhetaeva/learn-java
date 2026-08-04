@@ -1,0 +1,21 @@
+package collections2;
+
+import java.math.BigDecimal;
+
+public class Account {
+    private final String accountNumber;
+    private final BigDecimal balance;
+
+    public Account(String accountNumber, BigDecimal balance) {
+        this.accountNumber = accountNumber;
+        this.balance = balance;
+    }
+
+    public String getAccountNumber() {
+        return accountNumber;
+    }
+
+    public BigDecimal getBalance() {
+        return balance;
+    }
+}
